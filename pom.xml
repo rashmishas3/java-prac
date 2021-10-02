@@ -7,6 +7,7 @@
     <artifactId>maven-war-plugin</artifactId>
     <packaging>war</packaging>
     <version>0.1.0</version>
+    <failOnMissingWebXml>false</failOnMissingWebXml>
 
     <properties>
         <maven.compiler.source>1.8</maven.compiler.source>
